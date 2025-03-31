@@ -31,6 +31,7 @@ A place where Flutter packages are crafted and built.
 | [![ns_utils](https://img.shields.io/pub/v/ns_utils.svg?label=ns_utils&logo=dart&color=blue&style=for-the-badge)](https://pub.dev/packages/ns_utils)                                                 |
 [![ns_intl_phone_input](https://img.shields.io/pub/v/ns_intl_phone_input.svg?label=ns_intl_phone_input&logo=dart&color=blue&style=for-the-badge)](https://pub.dev/packages/ns_intl_phone_input)  
 
+
 | Plugins                                                                                                                                                                                     |
 |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [![contact_permission](https://img.shields.io/pub/v/contact_permission.svg?label=contact_permission&logo=dart&color=blue&style=for-the-badge)](https://pub.dev/packages/contact_permission) |
