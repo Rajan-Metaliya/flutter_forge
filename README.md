@@ -37,7 +37,7 @@ A place where Flutter packages are crafted and built.
 
 ## Contact
 
-Follow us, stay up to date or reach out on: test2
+Follow us, stay up to date or reach out on:
 
 - [LinkedIn](https://www.linkedin.com/company/nonstop-io)
 - [X.com](https://x.com/NonStopio)
